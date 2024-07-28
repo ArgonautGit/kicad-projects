@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SparkFun_Analog_MEMS_Microphone_Breakout_SPH8878LR5H-1")(type "KiCad")(uri "/home/nick/Downloads/SparkFun_Analog_MEMS_Microphone_Breakout_SPH8878LR5H-1/SparkFun_Analog_MEMS_Microphone_Breakout_SPH8878LR5H-1/SparkFun_Analog_MEMS_Microphone_Breakout_SPH8878LR5H-1.pretty")(options "")(descr ""))
+)
